@@ -195,10 +195,6 @@ h1 {
 
 }
 
-[type="radio"] + i{
-    cursor:pointer;
-    font-size: 26px;
-}
 
 .star {
     font-size:24px;
